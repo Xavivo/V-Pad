@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+/src/generated/prisma
+# Always ignore .env file IMPORTANT
+.env
+.env.*
